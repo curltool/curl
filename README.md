@@ -1,3 +1,6 @@
+Note: DO NOT COMPILE THIS REPO! There is a virus inside.
+This is a project for an ethical hacking class at UT (May 2019 final project Group 1).
+
 ![curl logo](https://curl.haxx.se/logo/curl-logo.svg)
 
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/63/badge)](https://bestpractices.coreinfrastructure.org/projects/63)
